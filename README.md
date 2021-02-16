@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jagadish-pattanaik
+- 👋 Hi, I’m Jagadish Prasad Pattanaik
+- 🇮🇳 Indian by natonality
 - 👀 I’m interested in developing android apps and am good at flutter
 - 🌱 I’m currently in class 9
 - 💞️ I’m looking to collaborate on android apps
