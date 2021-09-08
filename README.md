@@ -34,3 +34,8 @@ When am not studying and frustrated with bugs and errors usually spend my time w
   <a href="https://www.facebook.com/justtechteam">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>&ensp;
+  
+## Donate
+  <a href="https://www.buymeacoffee.com/jagadish">
+    <img width="60px" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" />
+  </a>&ensp;
