@@ -5,8 +5,6 @@ I am a student of class 10 presently, I study all day and code at night. I belie
 </p>
 Recently I developed Just Meet, a video conferencing app that gives complete privacy, is secured and end to end encrypted, uses lesser data and battery, and works well in bad network areas like a charm and the best thing is it has no restriction on the number of participants or meeting duration and that too completely free!  As I code alone it took me about 3 months to complete the initial release of it. It has a lot of features, some are new and very helpful. I believe this app will help a lot of people save their money and continue their meetings even in the worst network peacefully without having the tension of their user data!
 
-I have experience working on Firebase, Adsense, Admob, Facebook Audience Network, Unity Ads, etc, and also little in Python, Java, JavaScript, HTML, CSS, AIML.
-
 When am not studying and frustrated with bugs and errors usually spend my time working out on my muscles, painting, and playing with my pet dog "Ani".
 
 ## Languages & Tools I have used
@@ -17,6 +15,9 @@ When am not studying and frustrated with bugs and errors usually spend my time w
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+  <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 </a>&ensp;
 
 ## Stats
