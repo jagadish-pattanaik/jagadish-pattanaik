@@ -37,6 +37,9 @@ When am not studying and frustrated with bugs and errors usually spend my time w
 ![](https://metrics.lecoq.io/jagadish-pattanaik?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
 
 ## Connect with me
+  <a href="https://github.com/jagadish-pattanaik">
+    <img src="https://img.shields.io/github/followers/jagadish-pattanaik?label=Follow&style=social" />
+  </a>&ensp; 
   <a href="https://www.linkedin.com/in/jagadish-pattanaik/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
@@ -61,11 +64,11 @@ When am not studying and frustrated with bugs and errors usually spend my time w
 
 ## Join my Community
   <a href="https://discord.gg/kczPxGpAtq">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+    <img src="https://img.shields.io/discord/855828233383051294?label=Join Community&logo=Discord&style=social" />
   </a>&ensp;
   <a href="https://www.youtube.com/channel/UCgdd03ctC4odnUCNlPBSdUg?sub_confirmation=1">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
-  </a>&ensp;
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCgdd03ctC4odnUCNlPBSdUg?label=Subscribe&style=social" />
+  </a>&ensp; 
   <a href="https://www.instagram.com/_just_technologies_/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>&ensp;
