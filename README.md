@@ -52,12 +52,6 @@ When am not studying and frustrated with bugs and errors usually spend my time w
   <a href="https://www.facebook.com/justtechadmin/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
    </a>&ensp;
-   <a href="https://in.pinterest.com/jaguweb1234/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" />
-   </a>&ensp;
-   <a href="https://www.quora.com/profile/Jagadish-Prasad-Pattanaik-1">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" />
-   </a>&ensp;
   <a href="https://mail.google.com/mail/u/jaguweb1234@gmail.com">
     <img width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
    </a>&ensp;
