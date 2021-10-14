@@ -1,10 +1,20 @@
 # <p> <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hi am Jagadish Prasad Pattanaik <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="https://komarev.com/ghpvc/?username=jagadish-pattanaik&label=Profile Views&color=blue&style=plastic" alt="profileViews" /> </p>
 <p>
-I develop cross-platform apps and websites. I have developed 3 android apps and published them on the Play Store, one of them is Just Meet with thousands of daily users. I have been coding from class 8 and have gained 3 years of experience with flutter language and cross platform app development.
-I am a student of class 10 presently, I study all day and code at night. I believe in developing free or low-cost high-quality premium apps available to all the people of India. 
+I develop cross-platform apps and websites. I have developed 50+ android apps and published 3 of them on the Play Store, one of them is Just Meet with thousands of daily users. I have been coding since class 8 and have gained 3 years of experience with cross-platform app, android, iOS, website, and game development.
 </p>
-
+<p>
+I am a student of class 10 presently, I study all day and code at night. I believe in developing free or low-cost high-quality premium apps available to all the people of India.
+</p>
+<p>
+My app COV-Info was the winner in the COVID-19 response category and in the top 21 apps list among 3000 applications nationwide in the AIM App Innovation Challenge 2020 organized by AIM and NITI AAYOG.
+</p>
+<p>
+Recently I developed Just Meet. It is the winner of the Annual Exhibition 2020 and 2nd runner-up in the Inter DAV Expo 2021. It is a video conferencing app that gives complete privacy, is secured and end to end encrypted, uses lesser data and battery, and works well in bad network areas like a charm and the best thing is it has no restriction on the number of participants or meeting duration and that too completely free! As I code alone it took me about 3 months to complete the initial release of it. It has a lot of features, some are new and very helpful. I believe this app will help a lot of people save their money and continue their meetings even in the worst network peacefully without having the tension of their user data!
+</p>
+</p>
+<p>
 When am not studying and frustrated with bugs and errors usually spend my time working out on my muscles, painting, and playing with my pet dog "Ani".
+</p>
 
 ### Programming Languages
 <a>
