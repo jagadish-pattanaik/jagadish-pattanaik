@@ -3,7 +3,7 @@
 I develop cross-platform apps and websites. I have developed 50+ android apps and published 3 of them on the Play Store, one of them is Just Meet with thousands of daily users. I have been coding since class 8 and have gained 3 years of experience with cross-platform app, android, iOS, website, and game development.
 </p>
 <p>
-I am a student of class 10 presently, I study all day and code at night. I believe in developing free or low-cost high-quality premium apps available to all the people of India.
+I am a student of class 11 Science presently, I study all day and code at night. I believe in developing free or low-cost high-quality premium apps available to all the people of India.
 </p>
 <p>
 My app COV-Info was the winner in the COVID-19 response category and in the top 21 apps list among 3000 applications nationwide in the AIM App Innovation Challenge 2020 organized by AIM and NITI AAYOG.
