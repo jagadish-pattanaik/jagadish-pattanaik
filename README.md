@@ -1,15 +1,15 @@
-# <p> <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hi am Jagadish Prasad Pattanaik <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="https://komarev.com/ghpvc/?username=jagadish-pattanaik&label=Profile Views&color=blue&style=plastic" alt="profileViews" /> </p>
+# <p> <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hi am Jagadish Prasad Pattanaik <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></p>
 <p>
-I develop cross-platform apps and websites. I have developed 50+ android apps and published 3 of them on the Play Store, one of them is Just Meet with thousands of daily users. I have been coding since class 8 and have gained 3 years of experience with cross-platform app, android, iOS, website, and game development.
+I develop cross-platform apps and websites. I have developed 50+ android apps and published 3 of them on the Play Store, one of them is Just Meet with thousands of daily users. I have been coding since class 8 and have experience with cross-platform app, android, iOS, website, and game development.
 </p>
 <p>
-I am a student of class 11 Science presently, I study all day and code at night. I believe in developing free or low-cost high-quality premium apps available to all the people of India.
+I study all day and code at night. I believe in developing free or low-cost high-quality premium apps available to all the people.
 </p>
 <p>
 My app COV-Info was the winner in the COVID-19 response category and in the top 21 apps list among 3000 applications nationwide in the AIM App Innovation Challenge 2020 organized by AIM and NITI AAYOG.
 </p>
 <p>
-Recently I developed Just Meet. It is the winner of the Annual Exhibition 2020 and 2nd runner-up in the Inter DAV Expo 2021. It is a video conferencing app that gives complete privacy, is secured and end to end encrypted, uses lesser data and battery, and works well in bad network areas like a charm and the best thing is it has no restriction on the number of participants or meeting duration and that too completely free! As I code alone it took me about 3 months to complete the initial release of it. It has a lot of features, some are new and very helpful. I believe this app will help a lot of people save their money and continue their meetings even in the worst network peacefully without having the tension of their user data!
+Recently I developed Just Meet. It is the winner of the Nationa level CSIR Innovation Competition and Annual Exhibition 2020 and 2nd runner-up in the Inter DAV Expo 2021. It is a video conferencing app that gives complete privacy, is secured and end to end encrypted, uses lesser data and battery, and works well in bad network areas like a charm and the best thing is it has no restriction on the number of participants or meeting duration and that too completely free! As I code alone it took me about 3 months to complete the initial release of it. It has a lot of features, some are new and very helpful. I believe this app will help a lot of people save their money and continue their meetings even in the worst network peacefully without having the tension of their user data!
 </p>
 </p>
 <p>
@@ -44,7 +44,6 @@ When am not studying and frustrated with bugs and errors usually spend my time w
   
 ## Stats
 
-![](https://metrics.lecoq.io/jagadish-pattanaik?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
 
 ## Connect with me
   <a href="https://www.linkedin.com/in/jagadish-pattanaik/">
@@ -82,9 +81,9 @@ When am not studying and frustrated with bugs and errors usually spend my time w
 
 ## Support me
 <a href="https://github.com/sponsors/jagadish-pattanaik" title="Sponsor Me"><img src="https://raw.githubusercontent.com/natemoo-re/natemoo-re/master/assets/sponsor.svg?sanitize=true" width="100" height="30" aria-hidden="true"></a>
-<a href="https://www.buymeacoffee.com/jagadish">
+<!-- <a href="https://www.buymeacoffee.com/jagadish">
     <img width="100" height="30" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" />
   </a>&ensp;
   <a href="https://www.patreon.com/justjagadish">
     <img width="30px" height="30" src="https://www.vectorlogo.zone/logos/patreon/patreon-icon.svg" />
-  </a>&ensp;
+  </a>&ensp; -->
