@@ -67,7 +67,7 @@ When am not studying or frustrated with bugs, I usually spend my time working ou
   </a>&ensp;
 
 ## Support me
-<iframe src="https://github.com/sponsors/jagadish-pattanaik/button" title="Sponsor Me" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+<a href="https://github.com/sponsors/jagadish-pattanaik" title="Sponsor Me"><img src="https://raw.githubusercontent.com/natemoo-re/natemoo-re/master/assets/sponsor.svg?sanitize=true" width="100" height="30" aria-hidden="true"></a>
 <a href="https://www.buymeacoffee.com/jagadish">
     <img width="100" height="30" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" />
   </a>&ensp;
