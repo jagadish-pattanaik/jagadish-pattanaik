@@ -1,61 +1,59 @@
-# <p> <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hi I am Jagadish Prasad Pattanaik <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></p>
-<p>
-Am 18, a student, for now am into cross-platform apps for 4 years. I have many apps and published 3 of them on the Play Store, one of them is Just Meet with thousands of daily users, and many others have received many National Level Govt of India prizes.
-</p>
-<p>
-I look forward to learn, upskill, connect & grow!
-</p>
-<p>
-Awards : #1 app in COVID-19 response category, ATL National App Innovation Challenge 2020 by NITI Aayog & AIM (Govt. of India) 1st CSIR Jigyasa Vigyan Mahotsav national level 2022 (Govt. of India) Kishore Vaigyanik Protsahan Award (ISCA) ALLEN Spardha National 2021 Winner 1st Science (Senior) Exhibition 2021 -22 - Allytech Selected for District Level Inspire Exhibition 2021 2nd Runner-up Inter DAV Expo 2020 -21 1st Annual Exhibition Comp Sc. Best Project CS (Senior) Exhibition 2020 -21 
-</p>
-<p>
-When am not studying or frustrated with bugs, I usually spend my time working out, painting, and playing with my pet.
+<h1 align="center">Hi 👋, I'm Jagadish</h1>
+<h3 align="center">A Student & Digital-Craftsman from India</h3>
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](jaguweb1234@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadish_pattanaik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadish-pattanaik) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14652076) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jagadish_Pr) 
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Just+Technologies) 
+</div>
+
+- 🔭 I’m currently working on **Cross-platform Applications**
+
+- 🌱 I’m currently learning **C, Java**
+
+- 👯 Always ready to **Collab & Contribute!**
+
+<!-- 
+- 🤝 I’m looking for help with **rfg**
+
+- 👨‍💻 All of my projects are available at [dgd](dgd)
+
+- 📝 I regularly write articles on [dgdg](dgdg)
+
+- 💬 Ask me about **dgd**
+
+- 📫 How to reach me **gdg**
+
+- 📄 Know about my experiences [dgd](dgd)
+
+- ⚡ Fun fact **dgd**
+-->
+
+- 💰 <a href="#donate"> Donate </a>
+
+### 🏆 Honors & Awards
+  - 1st  National Level ATL App Innovation Challenge 2020 - AIM & NITI AAYOG (Govt. Of India)
+  - 1st, National Level CSIR Jigyasa Vigyan Mahotsav 2022 - CSIR (Govt. Of India)
+  - Kishore Vaigyanik Protsahan Award - Indian Science Congress Association (Govt. Of India)
+  - Indian Army TES SSB Conference-Out
+
+</details>
+
+<details>
+<summary><h3> 💡 More Details </h3> </summary>
+
+Started my Developer journey in 8th by making small websites, apps and playing with technology, slowly developed apps for competitions and bagged 1st position in many national level events as well as published many apps on the Google Play Store. Now am in college and looking forward to explore more technology and skills ahead. Looking forward to connect, collaborate and contribute. Lets make something big for the world together!
+
+</details>
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,c,java,html,css,mysql" /> <br>
+    <img src="https://skillicons.dev/icons?i=github,firebase,vscode,androidstudio,autocad,arduino,notion" />
+  </a>
 </p>
 
-### Programming Languages
-<a>
-  <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img align="left" alt="JavaScript" width="26px"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-</a>&ensp;
-
-### Technologies I use
-<a>
-  <img align="left" alt="Android Studio" width="26px" src="https://www.vectorlogo.zone/logos/android/android-official.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  <img align="left" alt="Gooogle Cloud" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-  <img align="left" alt="Gooogle Analytics" width="26px" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" />
-  <img align="left" alt="Gooogle Play Console" width="26px" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" />
-    <img align="left" alt="Admob" width="26px" src="https://www.vectorlogo.zone/logos/google_admob/google_admob-icon.svg" />
-  <img align="left" alt="Facebook Audience Network" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
-</a>&ensp;
-
-## Connect with me
-  <a href="https://www.linkedin.com/in/jagadish-pattanaik/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="https://x.com/Jagadish_Pr/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" />
-  </a>&ensp;
-  <a href="https://www.instagram.com/jagadish_pattanaik/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>&ensp;
-  <a href="https://stackoverflow.com/story/Jagadish">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />
-  </a>&ensp;
-  <a href="https://www.facebook.com/justtechadmin/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-   </a>&ensp;
-  <a href="https://mail.google.com/mail/u/jaguweb1234@gmail.com">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
-   </a>&ensp;
-
-## Join my Community
+<!-- ## Join my Community
   <a href="https://discord.gg/kczPxGpAtq">
     <img src="https://img.shields.io/discord/855828233383051294?label=Join Community&logo=Discord&style=social" />
   </a>&ensp;
@@ -64,13 +62,36 @@ When am not studying or frustrated with bugs, I usually spend my time working ou
   </a>&ensp; 
   <a href="https://www.facebook.com/justtechteam">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>&ensp;
+  </a>&ensp; -->
 
-## Support me
-<a href="https://github.com/sponsors/jagadish-pattanaik" title="Sponsor Me"><img src="https://raw.githubusercontent.com/natemoo-re/natemoo-re/master/assets/sponsor.svg?sanitize=true" width="100" height="30" aria-hidden="true"></a>
-<a href="https://www.buymeacoffee.com/jagadish">
-    <img width="100" height="30" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" />
-  </a>&ensp;
-  <a href="https://www.patreon.com/justjagadish">
-    <img width="30px" height="30" src="https://www.vectorlogo.zone/logos/patreon/patreon-icon.svg" />
-  </a>&ensp;
+## 📊 GitHub Stats:
+<br>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=jagadish-pattanaik&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=jagadish-pattanaik&theme=react&hide_border=false)
+  <br/>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadish-pattanaik&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  </br>
+
+  ![](https://github-profile-trophy.vercel.app/?username=jagadish-pattanaik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
+
+<h2 id="donate"> 💰 Support by Donating </h2>
+
+<a href="https://github.com/sponsors/jagadish-pattanaik" title="Sponsor Me"><img src="https://raw.githubusercontent.com/natemoo-re/natemoo-re/master/assets/sponsor.svg?sanitize=true" width="100" height="30" aria-hidden="true"></a> [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jagadish) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/justjagadish) 
+
+<h3 align="center">Shoot a Message on LinkedIn · Let's Collab · Thanks for Visiting</h3>
+
+<!--
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jagadish-pattanaik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jagadish-pattanaik&icon=1&color=0)](https://visitcount.itsvg.in)
+-->
+
