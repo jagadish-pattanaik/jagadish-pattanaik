@@ -68,8 +68,8 @@ Started my Developer journey in 8th by making small websites, apps and playing w
 <br>
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=jagadish-pattanaik&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=jagadish-pattanaik&theme=react&hide_border=false)
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jagadish-pattanaik&theme=react&hide_border=false&include_all_commits=true&count_private=true" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadish-pattanaik&theme=react&hide_border=false" /></p>
   <br/>
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadish-pattanaik&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
