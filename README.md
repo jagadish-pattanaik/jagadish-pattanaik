@@ -64,7 +64,7 @@ Started my Developer journey in 8th by making small websites, apps and playing w
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>&ensp; -->
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <br>
 <div align="center">
   
