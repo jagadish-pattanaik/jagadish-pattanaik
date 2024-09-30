@@ -49,7 +49,7 @@ Started my Developer journey in 8th by making small websites, apps and playing w
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,python,c,java,html,css,mysql" /> <br>
-    <img src="https://skillicons.dev/icons?i=github,firebase,vscode,androidstudio,autocad,arduino,notion" />
+    <img src="https://skillicons.dev/icons?i=github,firebase,vscode,androidstudio,arduino,notion" />
   </a>
 </p>
 
