@@ -8,12 +8,12 @@
 
 - 🔭 I’m currently working on **Cross-platform Applications**
 
-- 🌱 I’m currently learning **C, Java**
-
 - 👯 Always ready to **Collab & Contribute!**
 
+- - 🤝 I’m looking for help with **Projects** & **Hackathons**
+
 <!-- 
-- 🤝 I’m looking for help with **rfg**
+- 🌱 I’m currently learning **C, Java**
 
 - 👨‍💻 All of my projects are available at [dgd](dgd)
 
@@ -49,7 +49,7 @@ Started my Developer journey in 8th by making small websites, apps and playing w
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,python,c,java,html,css,mysql" /> <br>
-    <img src="https://skillicons.dev/icons?i=github,firebase,vscode,androidstudio,arduino,notion" />
+    <img src="https://skillicons.dev/icons?i=github,firebase,react,nodejs,vscode,androidstudio,arduino" />
   </a>
 </p>
 
@@ -82,7 +82,7 @@ Started my Developer journey in 8th by making small websites, apps and playing w
 
 <a href="https://github.com/sponsors/jagadish-pattanaik" title="Sponsor Me"><img src="https://raw.githubusercontent.com/natemoo-re/natemoo-re/master/assets/sponsor.svg?sanitize=true" width="100" height="30" aria-hidden="true"></a> [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jagadish) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/justjagadish) 
 
-<h3 align="center">Shoot a Message on LinkedIn · Let's Collab · Thanks for Visiting</h3>
+<h3 align="center">Shoot a Message · Let's Collab · Thanks for Visiting</h3>
 
 <!--
 ## ✍️ Random Dev Quote
