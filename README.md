@@ -10,7 +10,7 @@
 
 - 👯 Always ready to **Collab & Contribute!**
 
-- - 🤝 I’m looking for help with **Projects** & **Hackathons**
+- 🤝 I’m looking for help with **Projects** & **Hackathons**
 
 <!-- 
 - 🌱 I’m currently learning **C, Java**
