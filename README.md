@@ -6,15 +6,15 @@
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Just+Technologies) 
 </div>
 
-- 🔭 I’m currently working on **Cross-platform Applications**
+- 🔭 I’m currently working on **Cross-platform & Web Applications**
+
+- 🌱 I’m currently looking to learn **AI & Finance**
 
 - 👯 Always ready to **Collab & Contribute!**
 
 - 🤝 I’m looking for help with **Projects** & **Hackathons**
 
 <!-- 
-- 🌱 I’m currently learning **C, Java**
-
 - 👨‍💻 All of my projects are available at [dgd](dgd)
 
 - 📝 I regularly write articles on [dgdg](dgdg)
