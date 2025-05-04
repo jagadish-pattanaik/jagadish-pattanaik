@@ -48,8 +48,8 @@ Started my Developer journey in 8th by making small websites, apps and playing w
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,c,java,html,css,mysql" /> <br>
-    <img src="https://skillicons.dev/icons?i=github,firebase,react,nodejs,nextjs,vscode,androidstudio,arduino" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,html,css,react" /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,github,firebase,vscode,androidstudio" />
   </a>
 </p>
 
