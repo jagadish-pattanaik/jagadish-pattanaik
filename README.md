@@ -80,11 +80,15 @@ Started my Developer journey in 8th by making small websites, apps and playing w
 
 <h2 id="donate"> 💰 Support by Donating </h2>
 
-<a href="https://github.com/sponsors/jagadish-pattanaik" title="Sponsor Me"><img src="https://raw.githubusercontent.com/natemoo-re/natemoo-re/master/assets/sponsor.svg?sanitize=true" width="100" height="30" aria-hidden="true"></a> [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jagadish) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/justjagadish) 
+<a href="https://github.com/sponsors/jagadish-pattanaik" title="Sponsor Me"><img src="https://raw.githubusercontent.com/natemoo-re/natemoo-re/master/assets/sponsor.svg?sanitize=true" width="100" height="30" aria-hidden="true">
+
+<img src="https://github.com/jagadish-pattanaik/jagadish-pattanaik/blob/main/upi.jpg?raw=true" alt="Support" width="300">
 
 <h3 align="center">Shoot a Message · Let's Collab · Thanks for Visiting</h3>
-
 <!--
+</a> [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jagadish) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/justjagadish) 
+
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
