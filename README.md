@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagadish</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=600&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Flutter+Developer" alt="Typing SVG" />
+</div
 <h3 align="center">A Student, Digital-Craftsman & National Awardee from India</h3>
 <div align="center">
   
@@ -62,7 +65,7 @@ Started my Developer journey in 8th by making small websites, apps and playing w
   </a>&ensp; 
   <a href="https://www.facebook.com/justtechteam">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>&ensp; -->
+  </a>&ensp; 
 
 ## 📊 GitHub Stats
 <br>
@@ -76,7 +79,7 @@ Started my Developer journey in 8th by making small websites, apps and playing w
   </br>
 
   ![](https://github-profile-trophy.vercel.app/?username=jagadish-pattanaik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</div>
+</div> -->
 
 <h2 id="donate"> 💰 Support by Donating </h2>
 
